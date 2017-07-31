@@ -1,0 +1,809 @@
+{
+  "startup": {
+    "5d-change-inventory": {
+      "value": 60
+    },
+    "5d-change-stack": {
+      "value": 1
+    },
+    "5d-long-reach": {
+      "value": 6
+    },
+    "5d-long-mine": {
+      "value": 6
+    },
+    "5d-mining-speed": {
+      "value": 0.01
+    },
+    "5d-light-radius": {
+      "value": 25
+    },
+    "5d-ores": {
+      "value": false
+    },
+    "5d-yield": {
+      "value": false
+    },
+    "5d-tree": {
+      "value": true
+    },
+    "5d-hp": {
+      "value": 250
+    },
+    "5d-healing": {
+      "value": 0.15
+    },
+    "5d-bicho-spawner-hp": {
+      "value": 1
+    },
+    "5d-bicho-hp": {
+      "value": 1
+    },
+    "5d-bicho-healing": {
+      "value": 1
+    },
+    "5d-suicide": {
+      "value": true
+    },
+    "5d-exp": {
+      "value": true
+    },
+    "5d-swimmer": {
+      "value": true
+    },
+    "5d-climber": {
+      "value": true
+    },
+    "5d-worm": {
+      "value": true
+    },
+    "5d-trash": {
+      "value": true
+    },
+    "5d-logistics": {
+      "value": true
+    },
+    "5d-storage": {
+      "value": true
+    },
+    "5d-stack": {
+      "value": true
+    },
+    "5d-speed": {
+      "value": true
+    },
+    "5d-speed-gun-turret": {
+      "value": true
+    },
+    "5d-braking": {
+      "value": true
+    },
+    "5d-grid": {
+      "value": true
+    },
+    "5d-grid-override": {
+      "value": true
+    },
+    "achiever-bob-assembly-support": {
+      "value": true
+    },
+    "achiever-bob-logistics-support": {
+      "value": true
+    },
+    "achiever-bob-mining-support": {
+      "value": true
+    },
+    "achiever-vanilla-achievements-support": {
+      "value": true
+    },
+    "dectorio-signals": {
+      "value": true
+    },
+    "dectorio-landscaping": {
+      "value": true
+    },
+    "dectorio-walls": {
+      "value": false
+    },
+    "dectorio-flooring": {
+      "value": false
+    },
+    "dectorio-painted-concrete": {
+      "value": true
+    },
+    "dectorio-signs": {
+      "value": true
+    },
+    "crated-ammo-boost": {
+      "value": 10
+    },
+    "deconstruct-flesh": {
+      "value": true
+    },
+    "deconstruct-flesh-timer": {
+      "value": 10
+    },
+    "flesh-unit-drops": {
+      "value": true
+    },
+    "radiation-timer": {
+      "value": 15
+    },
+    "rotting-flesh": {
+      "value": true
+    },
+    "space-nukes": {
+      "value": true
+    },
+    "space-plasma": {
+      "value": true
+    },
+    "GDIW-hide-recipes": {
+      "value": true
+    },
+    "NE_Alien_Artifacts": {
+      "value": false
+    },
+    "NE_Scorched_Earth": {
+      "value": false
+    },
+    "NE_Burning_Buildings": {
+      "value": false
+    },
+    "NE_Tree_Hugger": {
+      "value": true
+    },
+    "NE_Bio_Ammo_Damage": {
+      "value": 15
+    },
+    "NE_Artifact_Collector_Radius": {
+      "value": 40
+    },
+    "NE_Artifact_Item_Count": {
+      "value": 8
+    },
+    "NE_Difficulty": {
+      "value": 1
+    },
+    "NE_Evolution_Factor_Tweak": {
+      "value": false
+    },
+    "NE_Harder_Endgame": {
+      "value": true
+    },
+    "ion-cannon-radius": {
+      "value": 25
+    },
+    "ion-cannon-heatup-multiplier": {
+      "value": 2
+    },
+    "ion-cannon-laser-damage": {
+      "value": 2500
+    },
+    "ion-cannon-explosion-damage": {
+      "value": 1000
+    },
+    "ion-cannon-flames": {
+      "value": true
+    },
+    "ion-cannon-bob-updates": {
+      "value": true
+    },
+    "rampant-useDumbProjectiles": {
+      "value": false
+    },
+    "rampant-useNEUnitLaunchers": {
+      "value": true
+    },
+    "rampant-addWallResistanceAcid": {
+      "value": false
+    },
+    "rampant-removeBloodParticles": {
+      "value": true
+    },
+    "SpaceX-launch-profile": {
+      "value": "Launch Meglo-mania(x25)"
+    },
+    "SpaceX-production": {
+      "value": 16
+    },
+    "SpaceX-research": {
+      "value": 16
+    },
+    "start-with-unit-remote-control": {
+      "value": false
+    },
+    "angels-enable-icon-scaling-silos": {
+      "value": true
+    },
+    "angels-enable-icon-scaling-warehouses": {
+      "value": true
+    },
+    "angels-infinite-ores-yield": {
+      "value": 20
+    },
+    "angels-oil-gas-yield": {
+      "value": 20
+    },
+    "angels-fissure-yield": {
+      "value": 20
+    },
+    "angels-lower-infinite-yield": {
+      "value": 1
+    },
+    "angels-enablefluidreq": {
+      "value": true
+    },
+    "angels-enableinfiniteiron": {
+      "value": true
+    },
+    "angels-enableinfinitecopper": {
+      "value": true
+    },
+    "angels-enableinfinitestone": {
+      "value": true
+    },
+    "angels-enableinfinitecoal": {
+      "value": false
+    },
+    "angels-enableinfiniteuranium": {
+      "value": false
+    },
+    "angels-enableinfiniteangelsore1": {
+      "value": false
+    },
+    "angels-enableinfiniteangelsore2": {
+      "value": false
+    },
+    "angels-enableinfiniteangelsore3": {
+      "value": false
+    },
+    "angels-enableinfiniteangelsore4": {
+      "value": false
+    },
+    "angels-enableinfiniteangelsore5": {
+      "value": false
+    },
+    "angels-enableinfiniteangelsore6": {
+      "value": false
+    },
+    "angels-enableinfinitebobbauxite": {
+      "value": true
+    },
+    "angels-enableinfinitebobcobalt": {
+      "value": true
+    },
+    "angels-enableinfinitebobgems": {
+      "value": true
+    },
+    "angels-enableinfinitebobgold": {
+      "value": true
+    },
+    "angels-enableinfiniteboblead": {
+      "value": true
+    },
+    "angels-enableinfinitebobnickel": {
+      "value": true
+    },
+    "angels-enableinfinitebobquartz": {
+      "value": true
+    },
+    "angels-enableinfinitebobrutile": {
+      "value": true
+    },
+    "angels-enableinfinitebobsilver": {
+      "value": true
+    },
+    "angels-enableinfinitebobsulfur": {
+      "value": true
+    },
+    "angels-enableinfinitebobtin": {
+      "value": true
+    },
+    "angels-enableinfinitebobtungsten": {
+      "value": true
+    },
+    "angels-enableinfinitebobzinc": {
+      "value": true
+    },
+    "angels-enableinfiniteyuoki": {
+      "value": false
+    },
+    "angels-enableinfiniteuraniumpower": {
+      "value": false
+    },
+    "angels-enableinfinitedarkmatter": {
+      "value": false
+    },
+    "angels-enable-converter": {
+      "value": true
+    },
+    "angels-hide-converter": {
+      "value": false
+    },
+    "angels-enable-acids": {
+      "value": true
+    },
+    "angels-enable-auto-barreling": {
+      "value": false
+    },
+    "angels-marathon-buildingmulti": {
+      "value": 2
+    },
+    "angels-marathon-buildingtime": {
+      "value": 2
+    },
+    "angels-marathon-intermediatemulti": {
+      "value": 1
+    },
+    "angels-marathon-rawmulti": {
+      "value": 1
+    },
+    "bobmods-assembly-chemicalplants": {
+      "value": true
+    },
+    "bobmods-assembly-electrolysers": {
+      "value": true
+    },
+    "bobmods-assembly-electronicmachines": {
+      "value": true
+    },
+    "bobmods-assembly-furnaces": {
+      "value": true
+    },
+    "bobmods-assembly-multipurposefurnaces": {
+      "value": true
+    },
+    "bobmods-assembly-oilrefineries": {
+      "value": true
+    },
+    "bobmods-enemies-aliensdropartifacts": {
+      "value": false
+    },
+    "bobmods-enemies-enableartifacts": {
+      "value": true
+    },
+    "bobmods-enemies-enablenewartifacts": {
+      "value": true
+    },
+    "bobmods-enemies-enablesmallartifacts": {
+      "value": true
+    },
+    "bobmods-inserters-long2": {
+      "value": true
+    },
+    "bobmods-inserters-more2": {
+      "value": true
+    },
+    "bobmods-logistics-drainlessinserters": {
+      "value": false
+    },
+    "bobmods-logistics-extremelyfastbelt": {
+      "value": true
+    },
+    "bobmods-logistics-flyingrobotframes": {
+      "value": true
+    },
+    "bobmods-logistics-roboportrecipeupdate": {
+      "value": true
+    },
+    "bobmods-logistics-robotparts": {
+      "value": true
+    },
+    "bobmods-logistics-robotrequireprevious": {
+      "value": true
+    },
+    "bobmods-mining-areadrills": {
+      "value": true
+    },
+    "bobmods-mining-miningaxes": {
+      "value": true
+    },
+    "bobmods-mining-miningdrills": {
+      "value": true
+    },
+    "bobmods-mining-pumpjacks": {
+      "value": true
+    },
+    "bobmods-mining-waterminers": {
+      "value": true
+    },
+    "bobmods-modules-enablegodmodules": {
+      "value": true
+    },
+    "bobmods-modules-enablegreenmodules": {
+      "value": true
+    },
+    "bobmods-modules-enableproductivitylimitation": {
+      "value": true
+    },
+    "bobmods-modules-enablerawproductivitymodules": {
+      "value": true
+    },
+    "bobmods-modules-enablerawspeedmodules": {
+      "value": true
+    },
+    "bobmods-modules-perlevel-bonus-consumption": {
+      "value": 0.1
+    },
+    "bobmods-modules-perlevel-bonus-pollution": {
+      "value": 0.15
+    },
+    "bobmods-modules-perlevel-bonus-pollutioncreate": {
+      "value": 0.5
+    },
+    "bobmods-modules-perlevel-bonus-productivity": {
+      "value": 0.05
+    },
+    "bobmods-modules-perlevel-bonus-speed": {
+      "value": 0.2
+    },
+    "bobmods-modules-perlevel-penalty-consumption": {
+      "value": 0.1
+    },
+    "bobmods-modules-perlevel-penalty-pollution": {
+      "value": 0.15
+    },
+    "bobmods-modules-perlevel-penalty-speed": {
+      "value": 0.05
+    },
+    "bobmods-modules-productivityhasspeed": {
+      "value": true
+    },
+    "bobmods-modules-start-bonus-consumption": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-pollution": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-pollutioncreate": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-productivity": {
+      "value": 0
+    },
+    "bobmods-modules-start-bonus-speed": {
+      "value": 0
+    },
+    "bobmods-modules-start-penalty-consumption": {
+      "value": 0
+    },
+    "bobmods-modules-start-penalty-pollution": {
+      "value": 0
+    },
+    "bobmods-modules-start-penalty-speed": {
+      "value": 0.2
+    },
+    "bobmods-modules-transmitproductivity": {
+      "value": true
+    },
+    "bobmods-gems-amethystratio": {
+      "value": 0.5
+    },
+    "bobmods-gems-diamondratio": {
+      "value": 0.2
+    },
+    "bobmods-gems-emeraldratio": {
+      "value": 0.6
+    },
+    "bobmods-gems-rubyratio": {
+      "value": 1
+    },
+    "bobmods-gems-sapphireratio": {
+      "value": 0.8
+    },
+    "bobmods-gems-topazratio": {
+      "value": 0.4
+    },
+    "bobmods-ores-enablebauxite": {
+      "value": true
+    },
+    "bobmods-ores-enablecobaltore": {
+      "value": true
+    },
+    "bobmods-ores-enablegemsore": {
+      "value": true
+    },
+    "bobmods-ores-enablegoldore": {
+      "value": true
+    },
+    "bobmods-ores-enableleadore": {
+      "value": true
+    },
+    "bobmods-ores-enablenickelore": {
+      "value": true
+    },
+    "bobmods-ores-enablequartz": {
+      "value": true
+    },
+    "bobmods-ores-enablerutile": {
+      "value": true
+    },
+    "bobmods-ores-enablesilverore": {
+      "value": true
+    },
+    "bobmods-ores-enablesulfur": {
+      "value": true
+    },
+    "bobmods-ores-enablethoriumore": {
+      "value": true
+    },
+    "bobmods-ores-enabletinore": {
+      "value": true
+    },
+    "bobmods-ores-enabletungstenore": {
+      "value": true
+    },
+    "bobmods-ores-enablewaterores": {
+      "value": true
+    },
+    "bobmods-ores-enablezincore": {
+      "value": true
+    },
+    "bobmods-ores-enhancestone": {
+      "value": false
+    },
+    "bobmods-ores-gemprobability": {
+      "value": 0.05
+    },
+    "bobmods-ores-gemsfromotherores": {
+      "value": false
+    },
+    "bobmods-ores-infiniteore": {
+      "value": false
+    },
+    "bobmods-ores-leadgivesnickel": {
+      "value": false
+    },
+    "bobmods-ores-leadnickelratio": {
+      "value": 0.6
+    },
+    "bobmods-ores-nickelcobaltratio": {
+      "value": 0.4
+    },
+    "bobmods-ores-nickelgivescobalt": {
+      "value": false
+    },
+    "bobmods-ores-unsortedgemore": {
+      "value": true
+    },
+    "bobmods-plates-batteryupdate": {
+      "value": true
+    },
+    "bobmods-plates-cheapersteel": {
+      "value": true
+    },
+    "bobmods-plates-groundwater": {
+      "value": false
+    },
+    "bobmods-plates-inventorysize": {
+      "value": 60
+    },
+    "bobmods-plates-oreoverride": {
+      "value": true
+    },
+    "bobmods-plates-purewater": {
+      "value": true
+    },
+    "bobmods-plates-vanillabarrelling": {
+      "value": false
+    },
+    "bobmods-vehicleequipment-enablevehiclegrids": {
+      "value": true
+    },
+    "bobmods-warfare-drainlesslaserturrets": {
+      "value": false
+    },
+    "bobmods-warfare-robotupdate": {
+      "value": true
+    },
+    "smelting-tiny-equipment": {
+      "value": false
+    },
+    "smelting-start-research": {
+      "value": false
+    },
+    "smelting-steel": {
+      "value": true
+    },
+    "smelting-electro": {
+      "value": true
+    },
+    "smelting-solder": {
+      "value": false
+    },
+    "smelting-cable": {
+      "value": true
+    },
+    "rso-vanilla-biter-generation": {
+      "value": false
+    }
+  },
+  "runtime-global": {
+    "autodeconstruct-remove-target": {
+      "value": true
+    },
+    "ltn-interface-console-level": {
+      "value": "2: notifications"
+    },
+    "ltn-interface-message-filter-age": {
+      "value": 18000
+    },
+    "ltn-interface-debug-logfile": {
+      "value": false
+    },
+    "ltn-dispatcher-requester-threshold": {
+      "value": 1000
+    },
+    "ltn-dispatcher-provider-threshold": {
+      "value": 1000
+    },
+    "ltn-dispatcher-stop-timeout": {
+      "value": 7200
+    },
+    "ltn-dispatcher-delivery-timeout": {
+      "value": 18000
+    },
+    "ltn-dispatcher-finish-loading": {
+      "value": true
+    },
+    "ion-cannon-auto-targeting": {
+      "value": true
+    },
+    "ion-cannon-target-worms": {
+      "value": true
+    },
+    "ion-cannon-auto-target-visible": {
+      "value": true
+    },
+    "ion-cannon-cooldown-seconds": {
+      "value": 300
+    },
+    "ion-cannon-chart-tag-duration": {
+      "value": 720
+    },
+    "ion-cannon-min-cannons-ready": {
+      "value": 2
+    },
+    "rampant-attackWaveGenerationUsePollution": {
+      "value": true
+    },
+    "rampant-attackWaveGenerationUsePlayerProximity": {
+      "value": true
+    },
+    "rampant-attackWaveGenerationThresholdMin": {
+      "value": 0
+    },
+    "rampant-attackWaveGenerationThresholdMax": {
+      "value": 20
+    },
+    "rampant-attackPlayerThreshold": {
+      "value": 7
+    },
+    "rampant-attackWaveMaxSize": {
+      "value": 150
+    },
+    "rampant-safeBuildings": {
+      "value": false
+    },
+    "rampant-safeBuildings-curvedRail": {
+      "value": false
+    },
+    "rampant-safeBuildings-straightRail": {
+      "value": false
+    },
+    "rampant-safeBuildings-bigElectricPole": {
+      "value": false
+    },
+    "rampant-safeBuildings-railSignals": {
+      "value": false
+    },
+    "rampant-safeBuildings-railChainSignals": {
+      "value": false
+    },
+    "rampant-safeBuildings-trainStops": {
+      "value": false
+    },
+    "rampant-safeBuildings-lamps": {
+      "value": false
+    },
+    "rampant-permanentNocturnal": {
+      "value": false
+    },
+    "rampant-aiPointsScaler": {
+      "value": 1
+    },
+    "subterrain-belt-cost-multiplier": {
+      "value": 1
+    },
+    "subterrain-pipe-cost-multiplier": {
+      "value": 1
+    },
+    "subterrain-should-refund-belts": {
+      "value": true
+    },
+    "subterrain-should-refund-pipes": {
+      "value": true
+    },
+    "subterrain-belt-refund-multiplier": {
+      "value": 1
+    },
+    "subterrain-pipe-refund-multiplier": {
+      "value": 1
+    },
+    "spawners-fragment-units": {
+      "value": true
+    },
+    "units-fragment-units": {
+      "value": true
+    },
+    "aai-max-structs-per-tick": {
+      "value": 0
+    },
+    "rso-region-size": {
+      "value": 7
+    },
+    "rso-starting-richness-mult": {
+      "value": 1
+    },
+    "rso-resource-chance": {
+      "value": 0.5
+    },
+    "rso-global-richness-mult": {
+      "value": 1
+    },
+    "rso-global-size-mult": {
+      "value": 1
+    },
+    "rso-biter-generation": {
+      "value": true
+    },
+    "rso-enemy-chance": {
+      "value": 0.25
+    },
+    "rso-enemy-base-size": {
+      "value": 1
+    },
+    "rso-distance-exponent": {
+      "value": 1.1
+    },
+    "rso-fluid-distance-exponent": {
+      "value": 0.6
+    },
+    "rso-size-exponent": {
+      "value": 0.2
+    },
+    "rso-use-donuts": {
+      "value": false
+    },
+    "rso-remove-trees": {
+      "value": true
+    },
+    "rso-infinite-ores-in-start-area": {
+      "value": false
+    },
+    "rso-infinite-ore-threshold": {
+      "value": 0.7
+    },
+    "rso-reveal-spawned-resources": {
+      "value": false
+    }
+  },
+  "runtime-per-user": {
+    "ion-cannon-play-voices": {
+      "value": true
+    },
+    "ion-cannon-voice-style": {
+      "value": "CommandAndConquer"
+    },
+    "ion-cannon-play-klaxon": {
+      "value": true
+    },
+    "ion-cannon-ready-ticks": {
+      "value": 300
+    },
+    "ion-cannon-custom-alerts": {
+      "value": true
+    }
+  }
+}
